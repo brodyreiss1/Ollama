@@ -1,0 +1,15 @@
+.collapse-section {
+    margin: 10px 0;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.collapse-header {
+    font-weight: bold;
+}
+
+.collapse-content {
+    padding-top: 10px;
+}

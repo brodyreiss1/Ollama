@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+.chat-box {
+    margin: 0 auto;
+    width: 50%;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+.response-box {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
