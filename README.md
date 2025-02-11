@@ -27,8 +27,8 @@ Install pipenv
 ```shell
 pip install pipenv
 ```
-Install dependencies (first command gets you into the terminal env, second one installs it)
+Install dependencies (second command gets you into the terminal env, first one installs it)
 ```shell
-pipenv shell
 pipenv install
+pipenv shell
 ```
